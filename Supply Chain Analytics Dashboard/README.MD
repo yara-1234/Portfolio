@@ -46,4 +46,9 @@ Converted operational metrics into financial data by calculating the **Potential
 ---
 
 ### 📸 Dashboard Preview
-![Dashboard Screenshot](https://via.placeholder.com/800x400?text=Supply+Chain+Dashboard+Preview )
+![Dashboard](0.png)
+![Dashboard](1.png)
+![Dashboard](2.png)
+![Dashboard](3.png)
+![Dashboard](4.png)
+![Dashboard](5.png)
