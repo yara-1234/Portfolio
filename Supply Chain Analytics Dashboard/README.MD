@@ -51,4 +51,3 @@ Converted operational metrics into financial data by calculating the **Potential
 ![Dashboard](3.png)
 ![Dashboard](4.png)
 ![Dashboard](5.png)
-![Dashboard](6.png)
